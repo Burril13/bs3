@@ -1,6 +1,7 @@
 ﻿##My First MVC Application
 
 Things to do:
+
 * create from template
 * examine bootstrap
 
